@@ -66,35 +66,3 @@ function toggleClass() {
 window.onload = function () {
     toggleClass();
 };
-/*const togClick=document.querySelector('#tog')
-togClick.addEventListener('click',()=>
-{
-    serrowint.style.opacity.value=1
-    serrowint.style.display="grid"
-    serrow.style.opacity.value=0
-    serrow.style.display="none"
-})
-function toggleClass()
-{
-    /*const p=document.getElementById('serrow')
-    p.classList.toggle('hide')
-    const x=document.getElementById('serrowint')
-    x.classList.toggle('hide')
-    const project=document.getElementById('.serrow')
-    const internship=document.getElementById('.serrowint')
-    if(project.style.display==='none')
-    {
-        project.style.display='grid'
-        internship.style.display='none'
-        project.style.opacity.value=1
-        internship.style.opacity.value=0
-    }
-    else
-    {
-        project.style.display='none'
-        internship.style.display='grid'
-        project.style.opacity.value=0
-        internship.style.opacity.value=1
-    }
-}
-*/
